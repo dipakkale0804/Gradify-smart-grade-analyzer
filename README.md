@@ -6,7 +6,7 @@ An interactive Streamlit app to process student grades using Python’s **functi
 
 ## 🚀 Live Demo
 
-👉 [Streamlit App](https://your-deployed-link.streamlit.app/) *(Add your live link once deployed)*
+https://dipakkale0804-gradify-smart-grade-analyz-grade-processor-h4dcnq.streamlit.app/
 
 ---
 
